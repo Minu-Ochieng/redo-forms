@@ -1,0 +1,23 @@
+#form {
+  width: 30%;
+  padding: 24px;
+  margin: 0 auto;
+  border: 1px solid;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+button {
+  padding: 5px 15px;
+  background-color: black;
+  margin-inline: 0;
+  width: 80%;
+  color: white;
+}
+button > a {
+  color: white;
+}
+img {
+  width: 10%;
+}
